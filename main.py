@@ -1,1 +1,2 @@
-import pandasre
+import pandas
+import pyaudio
